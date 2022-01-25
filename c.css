@@ -1,0 +1,15 @@
+#duty > input {
+	width: 200px;
+}
+#duty > span {
+	margin-left: 20px;
+}
+#led {
+	width: 100px;
+	height: 100px;
+	box-sizing: border-box;
+	border: 2px solid gray;
+	padding: 37px;
+	color: white;
+}
+
